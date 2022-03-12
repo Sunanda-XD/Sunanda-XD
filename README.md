@@ -35,8 +35,8 @@ class About extends Me {
 
 # Stats  📊
 
-![Sunanda-XD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunanda-XD &show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunanda-XD &layout=compact)
+![Sunanda-XD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunanda-XD&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunanda-XD&layout=compact)
 
 # Skills ⚡
 
