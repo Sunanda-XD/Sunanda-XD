@@ -4,6 +4,7 @@
 
 # < Hello World 👋‹ />
 ![XD](https://img.shields.io/badge/Hi,Im-Muhammad--Nanda--Sapriansyah-cyan)
+<img src="https://img.shields.io/badge/MY GITHUB-WELCOME-76B900?style=for-the-badge&logo=github&logoColor=white" />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanda-b41a15231/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nndsprnsyhh_/)
