@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/ardhptr21/Sunanda-XD/main/assets/banner.jpg)
+![Header image](https://raw.githubusercontent.com/ardhptr21/Sunanda-XD/main/banner-picsay.jpg)
 
 <div align="center">
 
