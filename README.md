@@ -13,6 +13,7 @@
 </div>
 
 # Who is me ? 🤨
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 
 ```javascript
 class About extends Me {
